@@ -10,6 +10,7 @@ charset-normalizer==3.4.7
 click==8.3.3
 colorama==0.4.6
 cryptography==48.0.0
+et_xmlfile==2.0.0
 gitdb==4.0.12
 GitPython==3.1.49
 google-ai-generativelanguage==0.6.15
@@ -32,6 +33,7 @@ jsonschema-specifications==2025.9.1
 MarkupSafe==3.0.3
 narwhals==2.20.0
 numpy==2.4.4
+openpyxl==3.1.5
 packaging==26.2
 pandas==3.0.2
 pillow==12.2.0
